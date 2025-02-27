@@ -1,1 +1,1 @@
-Port scanner with save result into database, writen with LLM for example.
+Многопоточный сканер портов, с сохранением результата в базу данных, написанный LLM.
